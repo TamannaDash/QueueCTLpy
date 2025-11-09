@@ -13,6 +13,9 @@ A production-grade CLI-based background job queue system with workers, retries (
 - ✅ Graceful worker shutdown (finish current job before exit)
 - ✅ Worker process management (start/stop)
 
+#DEMO
+[VIDEO](https://drive.google.com/file/d/1YUqs6DxFa9dlgDRnUYOPmcZ46JTF359q/view?usp=sharing)
+
 ## Installation
 
 ```bash
